@@ -1,7 +1,5 @@
 # ft_printf
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 **ft_printf** is a custom implementation of the standard C library's `printf` function. It replicates the behavior of `printf`, providing formatted output capabilities, and adheres to the rigorous standards of the 42 Network curriculum.
 
 ## Table of Contents
